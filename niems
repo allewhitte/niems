@@ -4,7 +4,8 @@
 {font-family:Hi Melody;
 font-size:35px;
 text-align:center;
-color:#8c8c00;text-shadow:1px 1px #000;
+color:#8c8c00;
+text-shadow:1px 1px #000;
 position:center;
 margin-bottom:-5px;}
 
